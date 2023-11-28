@@ -1,6 +1,6 @@
-/.git
-/.github
-/.idea
-/Images
+/.git/
+/.github/
+/.idea/
+/Images/
 .gitignore
 sync.ffs_db
