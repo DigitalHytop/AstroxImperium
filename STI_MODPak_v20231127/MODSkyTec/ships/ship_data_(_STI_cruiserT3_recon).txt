@@ -1,0 +1,127 @@
+//; ASTROX IMPERIUM SHIP EDITOR
+//; Jace Masula / DragonSlayer / DigitalHytop 2023
+//; -------------------------------SHIP MAIN VARS ----------------------------------
+//; ---------------------------- Variable name, value ------------------------------
+<STATS>
+//; --- General Info ---
+SHIP_name;STI-CRT3 Recon
+SHIP_filename;ship_data_(_STI_cruiserT3_recon)
+SHIP_class;Cruiser
+SHIP_type;Recon
+SHIP_skill_level;3
+SHIP_base_level;7
+SHIP_base_price;8070000
+SHIP_manufacturer;SkyTec
+SHIP_manufacturer_icon;icon_skytec_shp.png
+SHIP_faction_id;0
+//; --- Main Stats ---
+SHIP_active_slots;8
+SHIP_passive_slots;8
+SHIP_base_drones;4
+SHIP_base_shield;3225
+SHIP_base_armor;2820
+SHIP_base_energy;2455
+SHIP_base_cargo;2550
+SHIP_base_lifesupport;875
+//; --- Propulsion ---
+SHIP_base_mass;160
+SHIP_base_thrust;256
+SHIP_base_turn;0.40
+SHIP_base_engine_burn;0.37
+SHIP_base_speed;0
+//; --- Sensors ---
+SHIP_base_scan_max_targets;9
+SHIP_base_scan_speed;6.75
+SHIP_base_scan_pulserange;8700
+SHIP_base_scan_pulsespeed;12
+//; --- Resistance ---
+SHIP_impact_resistance;0.2
+SHIP_energy_resistance;.06
+SHIP_explosive_resistance;.02
+//; --- Regeneration ---
+SHIP_base_recharge;0.82
+SHIP_base_shield_recharge;6.15
+//; --- Bonuses ---
+SHIP_specials_raw;Beam Strength#0.25,ECM Resistance#0.50,Gun Strength#0.25,Laser Strength#0.25,Max Targets#0.40,Scan Range#0.35,Scan Speed#0.40
+//; --- Description ---
+SHIP_description;The recon ship is designed to gather information about the sector. Augmented onboard scanners, advanced targeting computers, and an oversized lifesupport bay.
+//; --- Editor ---
+SHIP_material_texture_a;sti_warm_main.png
+SHIP_material_texture_b;sti_cool_detail.png
+SHIP_material_texture_c;sti_warm_glow.png
+SHIP_material_color_a;1.00;1.00;1.00;0.00
+SHIP_material_color_b;0.00;0.75;0.00;1.00
+SHIP_engine_color;0.00;0.50;0.75;1.00
+//; --- Misc ---
+SHIP_shield;0
+SHIP_armor;0
+SHIP_energy;0
+SHIP_ls_food;0
+SHIP_ls_water;0
+SHIP_ls_thermal;0
+SHIP_ls_waste;0
+SHIP_ls_points;0
+SHIP_collider_x;1
+SHIP_collider_y;1
+SHIP_collider_z;1
+SHIP_prototype;False
+//; --- Merc stuff ---
+SHIP_owner;none
+SHIP_xp;0
+SHIP_next_level_xp;800
+SHIP_level;1
+SHIP_talent;Recon
+SHIP_loyalty;10
+SHIP_payroll;1000
+//; --------------------------------- SHIP PARTS -----------------------------------
+//; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr--------------------------
+<ITEM>
+ITEM;bulk_5; 4 ; 64 ;0.00;1.00;3.10;0.00;180.00;0.00
+ITEM;bulk_8; 4 ; 67 ;0.00;-1.04;7.03;0.00;180.00;180.00
+ITEM;bulk_8; 4 ; 67 ;0.00;-1.05;6.75;0.00;0.00;180.00
+ITEM;bulk_4; 4 ; 63 ;0.06;-0.70;9.55;0.00;0.00;90.00
+ITEM;command_2; 4 ; 22 ;0.00;1.29;9.83;0.00;0.00;0.00
+ITEM;command_6; 4 ; 26 ;0.00;0.38;10.00;0.00;360.00;0.00
+ITEM;engine_6; 4 ;36;0.63651;0.72731;-10.00760;0.00000;0.00000;0.00000
+ITEM;engine_6; 4 ;36;-0.54602;0.72000;-9.99370;0.00000;0.00000;0.00000
+ITEM;engine_6; 4 ;36;0.01000;-0.69148;-8.98619;0.00000;0.00000;0.00000
+ITEM;hull_main_2; 4 ;10;0.00;-1.08;-5.21;0.00;0.00;0.00
+ITEM;hull_main_2; 4 ; 10 ;0.00;0.32;6.66;0.00;0.00;180.00
+ITEM;hull_main_1; 4 ; 12 ;0.00;1.50;0.00;0.00;0.00;0.00
+ITEM;hull_main_3; 4 ; 13 ;0.05;-0.34;-6.45;0.00;0.00;180.00
+ITEM;Hull_medium_3; 4 ; 7 ;0.00;-0.32;2.69;0.00;0.00;180.00
+ITEM;light_red_blinker;0; 91 ;0.000;7.119;-8.118;0.000;0.000;0.000;0.25;0.25;0.25
+ITEM;mast_2;0; 42 ;0.000;2.467;-8.228;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;mast_1;0; 41 ;0.000;0.120;12.245;90.000;0.000;0.000;0.25;0.45;0.65
+ITEM;mast_2;0; 42 ;-0.586;3.000;-7.238;335.000;0.000;0.000;0.50;0.50;0.50
+ITEM;mast_2;0; 42 ;0.586;3.000;-7.238;335.000;0.000;0.000;0.50;0.50;0.50
+ITEM;wing_10;0; 72 ;0.000;-2.552;7.163;0.000;0.000;90.000;1.00;1.00;1.00
+ITEM;wing_10;0; 72 ;0.000;3.015;6.981;0.000;0.000;270.000;1.00;1.00;1.00
+ITEM;wing_14;0; 73 ;0.00;0.98;10.04;0.00;0.00;270.00
+ITEM;wing_4; 4 ; 83 ;0.000;2.570;-4.330;0.000;0.000;90.000;1.00;1.00;1.00
+ITEM;wing_4; 4 ; 83 ;0.000;2.570;-1.320;0.000;0.000;90.000;1.00;1.00;1.00
+ITEM;wing_4; 4 ; 83 ;0.000;2.570;1.640;0.000;0.000;90.000;1.00;1.00;1.00
+ITEM;wing_6; 4 ; 82 ;0.060;2.370;-1.310;0.000;0.000;270.000;1.00;1.00;1.00
+ITEM;wing_6; 4 ; 82 ;0.060;2.370;-4.320;0.000;0.000;270.000;1.00;1.00;1.00
+ITEM;wing_6; 4 ; 82 ;0.060;2.370;1.650;0.000;0.000;270.000;1.00;1.00;1.00
+//; ----------------------------- SHIP CAMERA SLOTS --------------------------------
+//; -------------- PILOTCAM,name,SLOTid,model_id,xp,yp,zp,xr,yr,zr--------------------
+<PILOTCAM>
+PILOTCAM;pilot_cam; 5 ; 98 ;0.02;0.21;12.21;0.00;0.00;0.00
+//; ----------------------------- SHIP MODULE SLOTS --------------------------------
+//; ----------------------- SLOT,slotID,xp,yp,zp,xr,yr,zr---------------------------
+<MODSLOT>
+MODSLOT;module_slot;1; 99 ;0.040;2.045;10.268;0.000;0.000;0.000;0.50;0.50;0.50
+MODSLOT;module_slot;2; 99 ;0.000;-1.507;8.130;0.000;0.000;180.000;0.50;0.50;0.50
+MODSLOT;module_slot;3; 99 ;-0.350;-0.166;11.116;0.000;0.000;90.000;0.50;0.50;0.50
+MODSLOT;module_slot;4; 99 ;0.350;-0.175;11.141;0.000;0.000;270.000;0.50;0.50;0.50
+MODSLOT;module_slot;5; 99 ;-0.530;-0.479;9.573;0.000;0.000;90.000;0.50;0.50;0.50
+MODSLOT;module_slot;6; 99 ;0.530;-0.460;9.630;0.000;0.000;270.000;0.50;0.50;0.50
+MODSLOT;module_slot;7; 99 ;0.000;2.045;8.442;0.000;0.000;0.000;0.50;0.50;0.50
+MODSLOT;module_slot;8; 99 ;0.000;2.925;-7.092;0.000;0.000;0.000;0.50;0.50;0.50
+//; ----------------------------- SHIP MODULES --------------------------------------
+//; ----- MODULE,slot,module_id
+<MODULE>
+//; ----------------------------- SHIP CARGO -----------------------------------------
+//; ----- CARGO, qty, cargo_id
+<CARGO>

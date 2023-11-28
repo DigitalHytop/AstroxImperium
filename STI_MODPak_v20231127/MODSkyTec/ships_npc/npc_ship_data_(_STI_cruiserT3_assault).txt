@@ -1,0 +1,139 @@
+//; ASTROX IMPERIUM SHIP EDITOR
+//; Jace Masula / DragonSlayer / DigitalHytop 2023
+//; -------------------------------SHIP MAIN VARS ----------------------------------
+//; ---------------------------- Variable name, value ------------------------------
+<STATS>
+//; --- General Info ---
+SHIP_name;STI-Merc CRT3 Assault
+SHIP_filename;npc_ship_data_(_STI_cruiserT3_assault)
+SHIP_class;Cruiser
+SHIP_type;Assault
+SHIP_skill_level;3
+SHIP_base_level;7
+SHIP_base_price;8257000
+SHIP_manufacturer;SkyTec
+SHIP_manufacturer_icon;icon_skytec_shp.png
+SHIP_faction_id;0
+//; --- Main Stats ---
+SHIP_active_slots;9
+SHIP_passive_slots;7
+SHIP_base_drones;6
+SHIP_base_shield;2760
+SHIP_base_armor;2740
+SHIP_base_energy;2665
+SHIP_base_cargo;2677
+SHIP_base_lifesupport;475
+//; --- Propulsion ---
+SHIP_base_mass;147
+SHIP_base_thrust;220
+SHIP_base_turn;0.42
+SHIP_base_engine_burn;0.34
+SHIP_base_speed;0
+//; --- Sensors ---
+SHIP_base_scan_max_targets;8
+SHIP_base_scan_speed;3.25
+SHIP_base_scan_pulserange;10550
+SHIP_base_scan_pulsespeed;12
+//; --- Resistance ---
+SHIP_impact_resistance;0.30
+SHIP_energy_resistance;0.40
+SHIP_explosive_resistance;0.35
+//; --- Regeneration ---
+SHIP_base_recharge;0.75
+SHIP_base_shield_recharge;4.40
+//; --- Bonuses ---
+SHIP_specials_raw;Afterburner#0.30,ECM Resistance#0.40,Energy Recharge#0.65,Max Targets#0.35,Missile Energy#0.25,Missile Speed#0.25,Missile Strength#0.25,Shield#0.07,Shield Recharge#0.15,Thrust#0.30
+//; --- Description ---
+SHIP_description;The assault ship is designed to be a fast moving, combat strike craft. Improved thrust systems, and augmented resistance.
+//; --- Editor ---
+SHIP_material_texture_a;sti_warm_main.png
+SHIP_material_texture_b;sti_cool_detail.png
+SHIP_material_texture_c;sti_warm_glow.png
+SHIP_material_color_a;0.50;0.50;0.50;0.30
+SHIP_material_color_b;0.75;0.00;0.00;1.00
+SHIP_engine_color;0.00;0.50;0.75;1.00
+//; --- Misc ---
+SHIP_shield;0
+SHIP_armor;0
+SHIP_energy;0
+SHIP_ls_food;0
+SHIP_ls_water;0
+SHIP_ls_thermal;0
+SHIP_ls_waste;0
+SHIP_ls_points;0
+SHIP_collider_x;1.7
+SHIP_collider_y;1.5
+SHIP_collider_z;7
+SHIP_prototype;False
+//; --- Merc stuff ---
+SHIP_owner;none
+SHIP_xp;0
+SHIP_next_level_xp;1000
+SHIP_level;1
+SHIP_talent;Assault
+SHIP_loyalty;10
+SHIP_payroll;20
+//; --------------------------------- SHIP PARTS -----------------------------------
+//; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr-----------------------------
+<ITEM>
+ITEM;bulk_7;0; 66 ;-0.090;1.084;2.707;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;bulk_9; 4 ; 68 ;0.06;0.21;5.03;0.00;0.00;180.00
+ITEM;bulk_9; 4 ; 68 ;0.040;0.136;2.800;0.000;0.000;180.000;1.00;1.00;1.00
+ITEM;bulk_9; 4 ; 68 ;0.000;0.210;0.610;0.000;0.000;180.000;1.00;1.00;1.00
+ITEM;bulk_4; 4 ; 63 ;0.00;-0.48;5.57;0.00;0.00;0.00
+ITEM;bulk_7; 4 ; 66 ;-0.100;0.340;5.460;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;command_7;0; 27 ;-0.010;-0.170;6.667;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;engine_5;0; 35 ;0.050;0.437;-6.341;0.000;0.000;180.000;1.00;1.00;1.00
+ITEM;engine_8; 4 ; 38 ;2.520;-0.200;-7.180;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;engine_8; 4 ; 38 ;-2.520;-0.200;-7.180;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;hull_boat_6;0; 16 ;-0.010;0.788;3.683;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;hull_boat_6; 4 ; 16 ;0.00;0.00;0.00;0.00;0.00;180.00
+ITEM;hull_main_3;0; 13 ;0.00;1.19;-3.69;0.00;0.00;0.00
+ITEM;Hull_medium_3; 4 ; 7 ;2.520;0.440;-4.670;0.000;180.000;0.000;1.00;1.00;1.00
+ITEM;Hull_medium_3; 4 ; 7 ;-2.520;0.440;-4.710;0.000;180.000;0.000;1.00;1.00;1.00
+ITEM;hull_small_5;0; 8 ;0.000;1.555;-0.849;0.000;180.000;0.000;1.00;1.00;1.00
+ITEM;Hull_small_9; 4 ; 4 ;0.00;0.39;-4.59;0.00;0.00;0.00
+ITEM;Hull_small_5; 4 ; 8 ;0.00;-0.10;2.22;0.00;0.00;0.00
+ITEM;light_red_blinker;0; 91 ;0.000;4.185;-5.068;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;mast_4;0; 48 ;0.000;1.751;-3.484;35.000;180.000;0.000;1.00;1.00;1.00
+ITEM;wing_1;0; 81 ;-3.014;-0.529;-6.550;0.000;180.000;325.000;1.00;1.00;1.00
+ITEM;wing_1;0; 81 ;3.014;-0.529;-6.550;0.000;180.000;215.000;1.00;1.00;1.00
+ITEM;wing_12;0; 77 ;-2.520;1.400;-6.820;0.000;0.000;90.000;1.00;1.00;1.00
+ITEM;wing_12;0; 77 ;2.520;1.400;-6.820;0.000;0.000;90.000;1.00;1.00;1.00
+ITEM;wing_5;0; 85 ;-0.371;0.727;7.042;0.000;270.000;180.000;1.00;1.00;1.00
+ITEM;wing_5;0; 85 ;0.289;0.132;7.037;0.000;90.000;0.000;1.00;1.00;1.00
+ITEM;wing_13; 4 ; 75 ;2.520;-0.620;-5.870;90.000;270.000;0.000;1.00;1.00;1.00
+ITEM;wing_13; 4 ; 75 ;-2.520;-0.620;-5.870;90.000;270.000;0.000;1.00;1.00;1.00
+//; ----------------------------- SHIP CAMERA SLOTS --------------------------------
+//; -------------- PILOTCAM,name,SLOTid,model_id,xp,yp,zp,xr,yr,zr--------------------
+<PILOTCAM>
+PILOTCAM;pilot_cam; 5 ; 98 ;0.00;0.17;8.56;0.00;0.00;0.00
+//; ----------------------------- SHIP MODULE SLOTS --------------------------------
+//; ----------------------- SLOT,slotID,xp,yp,zp,xr,yr,zr-------------------------------
+<MODSLOT>
+MODSLOT;module_slot;1; 99 ;0.00;1.53;5.18;0.00;0.00;0.00;0.75;0.75;0.75
+MODSLOT;module_slot;2; 99 ;0.08;-1.23;5.14;0.00;0.00;180.00;0.75;0.75;0.75
+MODSLOT;module_slot;3; 99 ;-0.51;-0.78;5.16;0.00;0.00;90.00;0.75;0.75;0.75
+MODSLOT;module_slot;4; 99 ;0.60;-0.78;5.16;0.00;0.00;270.00;0.75;0.75;0.75
+MODSLOT;module_slot;5; 99 ;0.01;2.28;2.32;0.00;0.00;0.00;0.75;0.75;0.75
+MODSLOT;module_slot;6; 99 ;-2.52;0.40;-2.82;0.00;0.00;0.00;0.75;0.75;0.75
+MODSLOT;module_slot;7; 99 ;2.52;0.43;-2.82;0.00;0.00;0.00;0.75;0.75;0.75
+MODSLOT;module_slot;8; 99 ;-2.53;0.92;-5.33;0.00;0.00;0.00;0.75;0.75;0.75
+MODSLOT;module_slot;9; 99 ;2.52;0.92;-5.31;359.28;0.16;0.99;0.75;0.75;0.75
+//; ----------------------------- SHIP MODULES --------------------------------------
+//; ----- MODULE,slot,module_id
+<MODULE>
+MODULE; 1 ; 1167;0;-10/45/-155/155/0
+MODULE; 2 ; 1167;0;-10/45/-155/155/0
+MODULE; 3 ; 1127;0;-10/45/-135/135/0
+MODULE; 4 ; 1127;0;-10/45/-135/135/0
+MODULE; 5 ; 1493;0;
+MODULE; 6 ; 1472;0;-10/45/-80/80/0
+MODULE; 7 ; 1472;0;-10/45/-80/80/0
+MODULE; 8 ; 1063;0;-10/45/-80/80/0
+MODULE; 9 ; 1063;0;-10/45/-80/80/0
+//; ----------------------------- SHIP CARGO -----------------------------------------
+//; ----- CARGO, qty, cargo_id
+<CARGO>
+CARGO; 500 ; 62
+CARGO; 500 ; 2123

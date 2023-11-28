@@ -1,0 +1,155 @@
+//; ASTROX IMPERIUM SHIP EDITOR
+//; Jace Masula / DragonSlayer / DigitalHytop 2023
+//; -------------------------------SHIP MAIN VARS ----------------------------------
+//; ---------------------------- Variable name, value ------------------------------
+<STATS>
+//; --- General Info ---
+SHIP_name;STI-EST3 Recon
+SHIP_filename;ship_data_(_STI_escortT3_recon)
+SHIP_class;Escort
+SHIP_type;Recon
+SHIP_skill_level;3
+SHIP_base_level;6
+SHIP_base_price;2575000
+SHIP_manufacturer;SkyTec Industries
+SHIP_manufacturer_icon;icon_skytec_shp.png
+SHIP_faction_id;0
+//; --- Main Stats ---
+SHIP_active_slots;6
+SHIP_passive_slots;7
+SHIP_base_drones;6
+SHIP_base_shield;1025
+SHIP_base_armor;725
+SHIP_base_energy;875
+SHIP_base_cargo;1575
+SHIP_base_lifesupport;550
+//; --- Propulsion ---
+SHIP_base_mass;85
+SHIP_base_thrust;190
+SHIP_base_turn;0.75
+SHIP_base_engine_burn;0.28
+SHIP_base_speed;0
+//; --- Sensors ---
+SHIP_base_scan_max_targets;7
+SHIP_base_scan_speed;8.25
+SHIP_base_scan_pulserange;3500
+SHIP_base_scan_pulsespeed;14.5
+//; --- Resistance ---
+SHIP_impact_resistance;0.07
+SHIP_energy_resistance;0.55
+SHIP_explosive_resistance;0.80
+//; --- Regeneration ---
+SHIP_base_recharge;0.9
+SHIP_base_shield_recharge;4.25
+//; --- Bonuses ---
+SHIP_specials_raw;Beam Range#0.20,Beam Strength#0.12,ECM Energy#0.30,ECM Range#0.30,ECM Resistance#0.30,ECM Strength#0.30,Explosive Resistance#0.08,Impact Resistance#0.09,Shield Recharge#0.05,Shield Strength#0.05
+//; --- Description ---
+SHIP_description;The original Caldari Ibis corvette is a small but stout vessel that fit admirably well as a cargo hauler or small-scale miner. SkyTec Industries has kicked it up a Tier 3 notch with emphesis on offering added recon for any fleet.
+//; --- Editor ---
+SHIP_material_texture_a;sti_warm_main.png
+SHIP_material_texture_b;sti_cool_detail.png
+SHIP_material_texture_c;sti_warm_glow.png
+SHIP_material_color_a;1.00;1.00;1.00;0.00
+SHIP_material_color_b;0.00;0.75;0.00;0.00
+SHIP_engine_color;0.00;0.50;0.75;1.00
+//; --- Misc ---
+SHIP_shield;825
+SHIP_armor;725
+SHIP_energy;1531.25
+SHIP_ls_food;607;1232
+SHIP_ls_water;627;1232
+SHIP_ls_thermal;647;1232
+SHIP_ls_waste;667;1232
+SHIP_ls_points;5478
+SHIP_collider_x;1
+SHIP_collider_y;1
+SHIP_collider_z;1
+SHIP_prototype;False
+//; --- Merc stuff ---
+SHIP_owner;none
+SHIP_xp;0
+SHIP_next_level_xp;1000
+SHIP_level;1
+SHIP_talent;Combat
+SHIP_loyalty;10
+SHIP_payroll;250
+//; --------------------------------- SHIP PARTS -----------------------------------
+//; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr--------------------------
+<ITEM>
+ITEM;bulk_9;0; 68 ;0.74965;0.74928;-2.05525;0.00000;0.00000;180.00000
+ITEM;bulk_9;0; 68 ;-0.78207;0.74928;-2.05525;0.00000;0.00000;180.00000
+ITEM;bulk_2;0; 61 ;0.00000;1.41595;-3.20822;0.00000;0.00000;90.00000
+ITEM;bulk_9;0; 68 ;0.00000;0.58050;-0.16943;5.71415;0.00000;180.00000
+ITEM;bulk_8;0; 67 ;0.00000;1.24780;-3.29156;5.71413;180.00000;0.00000
+ITEM;bulk_8;0; 67 ;0.00000;-0.98960;1.75489;302.85740;180.00000;180.00000
+ITEM;bulk_8;0; 67 ;0.00000;-0.99026;3.32043;294.28560;180.00000;180.00000
+ITEM;bulk_9;0; 68 ;0.67901;0.16354;2.69869;6.57186;0.00000;177.57090
+ITEM;bulk_9;0; 68 ;1.07650;-1.64745;4.25759;0.00000;90.00000;271.42840
+ITEM;bulk_9;0; 68 ;-0.68001;0.14354;2.69869;6.57186;0.00000;182.57090
+ITEM;cargo_3;0; 53 ;2.74780;-1.67700;0.66000;337.14300;270.00000;0.00000
+ITEM;cargo_3;0; 53 ;-2.71306;-1.67677;0.66000;337.14260;90.00000;0.00000
+ITEM;cargo_4;0; 54 ;0.20654;-1.14500;0.59800;0.00000;270.00000;0.00000
+ITEM;cargo_4;0; 54 ;-0.15236;-1.14538;0.59835;0.00000;90.00000;0.00000
+ITEM;cargo_2;0; 52 ;-0.00019;-2.13600;2.63900;6.00000;90.00000;90.00000
+ITEM;cargo_2;0; 52 ;0.01337;-2.13570;2.63900;6.00000;270.00000;90.00000
+ITEM;cargo_6;0; 56 ;0.00000;-1.84498;2.56765;0.00000;90.00000;48.57141
+ITEM;command_9;0; 29 ;-0.38583;-1.20794;3.85012;0.00000;180.00000;180.00000
+ITEM;command_9;0; 29 ;0.39920;-1.20794;3.85012;0.00000;180.00000;180.00000
+ITEM;command_4;0; 24 ;0.00000;1.32930;0.89994;0.00000;0.00000;0.00000
+ITEM;command_9;0; 29 ;0.01100;-1.05361;3.64816;0.00000;180.00000;0.00000
+ITEM;command_1;0; 21 ;0.0;0.0;0.0;0.00;0.00;0.00
+ITEM;engine_8;0; 38 ;-2.48957;-1.71258;1.28000;0.00000;0.00000;204.00000
+ITEM;engine_8;0; 38 ;2.63400;-1.65000;1.28000;0.00000;0.00000;154.00000
+ITEM;engine_0;0; 30 ;0.89315;0.94975;-2.89059;0.00000;0.00000;0.00000
+ITEM;engine_0;0; 30 ;-0.89990;0.94975;-2.89059;0.00000;0.00000;0.00000
+ITEM;hull_boat_2;0; 17 ;0.00000;-0.16603;1.93330;5.71415;0.00000;0.00000
+ITEM;hull_medium_1;0; 5 ;0.14012;0.52478;-3.16915;11.42830;0.00000;0.00000
+ITEM;hull_medium_3;0; 7 ;0.00000;1.05824;1.02644;7.00004;0.00000;0.00000
+ITEM;hull_medium_1;0; 5 ;-0.16762;-0.30102;0.57092;353.00000;180.00000;0.00000
+ITEM;hull_medium_1;0; 5 ;0.13006;-0.25106;2.04632;7.00004;0.00000;0.00000
+ITEM;Hull_small_9;0; 4 ;0.00000;0.92194;-3.05990;0.00000;0.00000;0.00000
+ITEM;hull_small_6;0; 0 ;0.00000;-0.14884;2.18506;0.00000;0.00000;0.00000
+ITEM;hull_small_7;0; 1 ;0.00000;-1.46600;4.17943;298.00000;180.00000;180.00000
+ITEM;hull_small_8;0; 3 ;0.00000;0.00000;1.33957;0.00000;0.00000;0.00000
+ITEM;hull_small_7;0; 1 ;0.00000;-0.31819;2.89220;0.00000;180.00000;180.00000
+ITEM;light_red_blinker;0; 91 ;0.38119;-3.93520;7.81874;0.00000;0.00000;0.00000
+ITEM;light_red_blinker;0; 91 ;-0.42700;-3.93520;7.81874;0.00000;0.00000;0.00000
+ITEM;light_red_blinker;0; 91 ;4.32097;-2.23261;3.03826;0.00000;0.00000;0.00000
+ITEM;light_red_blinker;0; 91 ;-4.16532;-2.23261;3.03826;0.00000;0.00000;0.00000
+ITEM;light_red_blinker;0; 91 ;0.00000;1.74266;1.65476;0.00000;0.00000;0.00000
+ITEM;mast_4;0; 48 ;-0.41480;-3.96368;4.88998;90.00000;0.00000;0.00000
+ITEM;mast_4;0; 48 ;0.39290;-3.96368;4.88998;90.00000;0.00000;0.00000
+ITEM;mast_4;0; 48 ;-4.15624;-2.25725;0.12788;90.00000;0.00000;0.00000
+ITEM;mast_4;0; 48 ;4.33349;-2.25725;0.12788;90.00000;0.00000;0.00000
+ITEM;wing_8;0; 76 ;0.56761;1.81657;-2.59010;0.00000;270.00000;0.00000
+ITEM;wing_8;0; 76 ;-0.60359;1.81657;-2.59010;0.00000;270.00000;0.00000
+ITEM;wing_8;0; 76 ;1.06079;1.51900;-2.59000;65.25003;90.00002;180.00000
+ITEM;wing_8;0; 76 ;-1.10062;1.51900;-2.59000;65.25000;270.00000;0.00000
+ITEM;wing_9;0; 74 ;-3.09560;-1.61100;0.50500;25.71403;270.00000;0.00000
+ITEM;wing_9;0; 74 ;-3.02207;-1.61100;0.50500;25.71403;270.00000;0.00000
+ITEM;wing_9;0; 74 ;-2.94174;-1.61100;0.50500;25.71403;270.00000;0.00000
+ITEM;wing_9;0; 74 ;3.02934;-1.61119;0.50534;25.71427;90.00000;180.00000
+ITEM;wing_9;0; 74 ;3.10987;-1.61119;0.50534;25.71427;90.00000;180.00000
+ITEM;wing_9;0; 74 ;3.21487;-1.61119;0.50534;25.71427;90.00000;180.00000
+//; ----------------------------- SHIP CAMERA SLOTS --------------------------------
+//; -------------- PILOTCAM,name,SLOTid,model_id,xp,yp,zp,xr,yr,zr--------------------
+<PILOTCAM>
+PILOTCAM;pilot_cam; 5 ; 98 ;0.00393;0.59143;4.36303;0.00000;0.00000;0.00000
+//; ----------------------------- SHIP MODULE SLOTS --------------------------------
+//; -------------- MODSLOT,name,SLOTid,model_id, ammo_id,xp,yp,zp,xr,yr,zr----------
+<MODSLOT>
+MODSLOT;module_slot;1; 99 ;0.00;1.33;2.73;0.00;0.00;0.00;0.75;0.75;0.75
+MODSLOT;module_slot;2; 99 ;-1.17;-1.71;4.63;0.00;0.00;90.00;0.75;0.75;0.75
+MODSLOT;module_slot;3; 99 ;1.11;-1.66;4.63;0.00;0.00;270.00;0.75;0.75;0.75
+MODSLOT;module_slot;4; 99 ;0.00;1.76;-2.64;0.00;0.00;0.00;0.75;0.75;0.75
+MODSLOT;module_slot;5; 99 ;-1.09;1.37;-3.19;0.00;0.00;67.00;0.75;0.75;0.75
+MODSLOT;module_slot;6; 99 ;1.03;1.37;-3.19;0.00;0.00;297.00;0.75;0.75;0.75
+//; ----------------------------- SHIP MODULES --------------------------------------
+//; ----- MODULE,slot,module_id
+<MODULE>
+//; ----------------------------- SHIP CARGO -----------------------------------------
+//; ----- CARGO, qty, cargo_id
+<CARGO>
+//; ----------------------------- SHIP DRONES -----------------------------------------
+//; ----- DRONE, id, hp, energy
+<DRONE>

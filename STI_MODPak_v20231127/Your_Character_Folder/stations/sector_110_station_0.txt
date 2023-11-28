@@ -1,0 +1,84 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;0
+STATION;name;SkyTec Headquarters
+STATION;type;Market Center
+STATION;owner;SkyTec
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.10 , .50 , .70 , 1
+STATION;level;8
+STATION;icon;skytec_sta_hdq.png
+STATION;filename;sector_110_station_0.txt
+STATION;max_hp;25000
+STATION;dockfee;100
+STATION;seed;4-7-1-3-9-3-8-0-7-7-3-6-0-6-7-1-5-1-6-5-1-0-0
+STATION;interior_seed;0-0-15-8
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;lease;10
+STATION;last_dock_time;47749.44
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;True
+SERVICES;university;True
+SERVICES;contracts;True
+SERVICES;hangar;True
+SERVICES;garage;True
+SERVICES;refinery;False
+SERVICES;fabricator;True
+SERVICES;storage;True
+SERVICES;admin;False
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;Bottle of Whiskey;0.025,0.0;850;Whiskey;entertain_bar.png;Purchase a bottle of whiskey for each of your fleet members. 2.5% Morale bonus.
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;1.63;npc_ship_data_(recon_shuttle_1).txt
+MERC;3;1.63;npc_ship_data_(recon_escort_1).txt
+MERC;9;1.93;npc_ship_data_(recon_utility_1).txt
+MERC;12;1.23;npc_ship_data_(recon_utility_2).txt
+MERC;15;1.47;npc_ship_data_(recon_frigate_1).txt
+</MERC>
+//MERC;16;1.50;npc_ship_data_(battle_escort_4).txt
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;223;1.88
+SKILL;224;1.18
+SKILL;225;0.89
+SKILL;226;0.53
+SKILL;232;0.67
+SKILL;233;0.95
+SKILL;221;0.86
+SKILL;100;0.83
+SKILL;101;0.63
+SKILL;59;0.43
+SKILL;114;1.13
+SKILL;117;1.13
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.0;ship_data_(support_carrier_1).txt
+SHIP;1;1.0;ship_data_(transport_carrier_1).txt
+SHIP;1;1.0;ship_data_(recon_dreadnought_1).txt
+SHIP;1;1.0;ship_data_(titan).txt
+</HANGAR>
+// OFFICES;office_name;npc_name;faction_id;faction_req;level;img;scripting_file;scripting_id;
+<OFFICE>
+OFFICE;(AstyQuest);Asty;1;0.0;26;station.png;male_1.png;accessory_1.png;astys_quest_1.txt;1
+OFFICE;(Tutorial Office) Ship Orbiting;Jonathan Hetcher;1;0.0;26;station.png;male_9.png;accessory_15.png;tutorial_ship_orbits.txt;2
+OFFICE;(Tutorial Office) Camera Basics;Ratamaq Guru;1;0.0;26;station.png;male_2.png;accessory_18.png;tutorial_camera_basics.txt;2
+OFFICE;(Tutorial Office) Navigation Basics;Arji Darn;1;0.0;26;station.png;male_3.png;accessory_18.png;tutorial_navigation_basics.txt;2
+OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;male_4.png;accessory_19.png;tutorial_life_support.txt;2
+OFFICE;(Tutorial Office) Basic Drones;Daniel Traek;1;0.0;43;station.png;male_4.png;accessory_17.png;tutorial_drones.txt;2
+</OFFICE>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+</STORAGE>
