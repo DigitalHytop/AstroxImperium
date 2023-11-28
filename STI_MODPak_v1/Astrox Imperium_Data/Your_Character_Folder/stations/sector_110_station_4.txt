@@ -1,0 +1,80 @@
+// STATION DATA (Astrox Imperium) 
+// STATION;variable;value
+STATION;id;1
+STATION;name;SkyTec Manufacturing
+STATION;type;Patrol Annex Station
+STATION;owner;Roger Refit
+STATION;faction;Trade
+STATION;material;station_material_Trade.png
+STATION;color;.10 , .50 , .70 , 1
+STATION;level;7
+STATION;icon;skytec_sta_man.png
+STATION;filename;sector_110_station_4.txt
+STATION;max_hp;25000
+STATION;dockfee;25
+STATION;seed;4-0-0-7-0-2-4-0-4-3-3-4-0-6-7-0-4-0-3-1-3-7-90
+STATION;interior_seed;4-5-15-3
+STATION;refinery_active_time;0
+STATION;fabricator_active_time;0
+STATION;lease;10
+STATION;last_dock_time;642163
+// SERVICES;servicename;bool
+SERVICES;lounge;True
+SERVICES;market;False
+SERVICES;university;False
+SERVICES;contracts;False
+SERVICES;hangar;False
+SERVICES;garage;False
+SERVICES;refinery;False
+SERVICES;fabricator;True
+SERVICES;storage;True
+SERVICES;admin;True
+// ENTERTAINMENT;title;bonus morale, bonus loyalty;price;type;image;description
+ENTERTAINMENT;StarLuck Casino;0.05,0.05;24000;Gambling;entertain_casino.png;A weekend package to the local casino for your entire crew, complete with pocket money. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;BioSynth Wildlife Park;0.05,0.05;26000;Rest and Relaxation;entertain_park.png;A weekend package to the local wildlife BioSynth park for your entire crew, included petting zoo. 5% Morale Boost, 5% Loyalty Boost
+ENTERTAINMENT;Private Concert;0.25,0.09;50000;Musical Entertainment;entertain_show.png;Provide a private concert for your entire crew, drinks and food included. 25% Morale , 9% Loyalty bonus.
+ENTERTAINMENT;Evening of Drinks;0.05,0.0;1500;Alcholic Drinks;entertain_bar.png;Pick up the tab for an evening of drinks for your crew, they earned it. 5% Morale Boost.
+ENTERTAINMENT;Astrox Opera House;0.26,0.07;51000;Musical Entertainment;entertain_opera.png;Provide a private opera concert for your entire crew at the famous 'Astrox Opera House', drinks and food included. 26% Morale , 7% Loyalty bonus.
+// MERC;level;Price_modifier;Ship_filename
+<MERC>
+MERC;1;1.63;npc_ship_data_(excavation_shuttle_1).txt
+MERC;3;1.63;npc_ship_data_(excavation_escort_1).txt
+MERC;9;1.93;npc_ship_data_(excavation_utility_1).txt
+MERC;12;1.23;npc_ship_data_(excavation_utility_2).txt
+MERC;15;1.47;npc_ship_data_(excavation_frigate_1).txt
+MERC;15;1.50;npc_ship_data_(_STI_shuttleT3_recon).txt
+MERC;15;1.50;npc_ship_data_(_STI_carrierT3_transport).txt
+</MERC>
+// MARKET;Item_id;Qty;Price_modifier
+<MARKET>
+</MARKET>
+// SKILLS;Skill_id;Price_modifier
+<SKILLS>
+SKILL;66;1.00
+SKILL;67;1.00
+SKILL;68;1.00
+SKILL;23;0.81
+SKILL;234;0.88
+SKILL;46;1.75
+SKILL;22;1.95
+SKILL;74;1.32
+SKILL;34;0.84
+SKILL;223;1.00
+</SKILLS>
+// MISSION , dbid , timer, id, data, title, factionid
+<MISSIONS>
+</MISSIONS>
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+</HANGAR>
+// OFFICES;office_name;npc_name;faction_id;faction_req;level;img;scripting_file;scripting_id;
+<OFFICE>
+OFFICE;(Tutorial Office) Camera Basics;Ratamaq Guru;1;0.0;26;station.png;male_2.png;accessory_18.png;tutorial_camera_basics.txt;2
+OFFICE;(Tutorial Office) Navigation Basics;Arji Darn;1;0.0;26;station.png;male_3.png;accessory_18.png;tutorial_navigation_basics.txt;2
+OFFICE;(Tutorial Office) Life Support Basics;Carter Burke;1;0.0;26;station.png;male_4.png;accessory_19.png;tutorial_life_support.txt;2
+OFFICE;(Tutorial Office) Basic Drones;Daniel Traek;1;0.0;43;station.png;male_4.png;accessory_17.png;tutorial_drones.txt;2
+</OFFICE>
+// STORAGE;item_id;Qty;0
+<STORAGE>
+
+</STORAGE>

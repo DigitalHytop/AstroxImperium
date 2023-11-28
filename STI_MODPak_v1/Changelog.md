@@ -2,6 +2,7 @@ v1.2.20231128
 - Reclassified the DNT2 Recon to reflect it's actual design purpose as Salvage ship
 - Added "Miner" to the Orca's ship name to reflect it's primary designation
 - Added white blinkers to DNT2 Salvager
+- Added the documentation files on how to install and set up the MOD
 
 v1.2.20231127
 - Added new cosmetics to the SkyTec Nexus
