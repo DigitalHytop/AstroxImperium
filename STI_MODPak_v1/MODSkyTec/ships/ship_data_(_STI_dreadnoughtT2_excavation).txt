@@ -4,10 +4,10 @@
 //; ---------------------------- Variable name, value ------------------------------
 <STATS>
 //; --- General Info ---
-SHIP_name;STI-DNT2 Recon-Salvager
-SHIP_filename;ship_data_(_STI_dreadnoughtT2_recon)
+SHIP_name;STI-DNT2 Salvager
+SHIP_filename;ship_data_(_STI_dreadnoughtT2_excavation)
 SHIP_class;Dreadnought
-SHIP_type;Recon
+SHIP_type;Excavation
 SHIP_skill_level;2
 SHIP_base_level;10
 SHIP_base_price;21338000
@@ -44,13 +44,13 @@ SHIP_base_shield_recharge;7.5
 //; --- Bonuses ---
 SHIP_specials_raw;Drone Armor#0.75,Drone Energy#0.45,Drone Speed#0.25,Drone Strength#0.75,ECM Resistance#0.50,Energy Recharge#0.60,Max Targets#0.30,Pulse Speed#0.70,Salvager Speed#0.50,Scan Speed#0.40
 //; --- Description ---
-SHIP_description;The recon ship is designed to gather information about the sector. Augmented onboard scanners, advanced targeting computers, and an oversized lifesupport bay.
+SHIP_description;Excavation ships are designed to harvest raw ore and salvage. They have large energy cores to power the mining beams, and augmented cargo bays to store the resources they collect.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png
 SHIP_material_texture_c;sti_warm_glow.png
 SHIP_material_color_a;0.50;0.50;0.50;0.30
-SHIP_material_color_b;0.00;0.75;0.00;1.00
+SHIP_material_color_b;0.60;0.20;0.00;1.00
 SHIP_engine_color;0.00;0.50;0.75;1.00
 //; --- Misc ---
 SHIP_shield;0
@@ -70,7 +70,7 @@ SHIP_owner;none
 SHIP_xp;0
 SHIP_next_level_xp;800
 SHIP_level;1
-SHIP_talent;Recon
+SHIP_talent;Excavation
 SHIP_loyalty;10
 SHIP_payroll;380
 //; --------------------------------- SHIP PARTS -----------------------------------
@@ -104,6 +104,11 @@ ITEM;hull_main_2;0; 10 ;-0.120;5.100;-11.273;0.000;90.000;0.000;0.70;0.25;0.80
 ITEM;hull_main_1;0; 12 ;-0.300;0.540;-12.092;90.000;180.000;0.000;1.25;0.55;1.15
 ITEM;hull_main_1;0; 12 ;0.300;0.550;-10.450;90.000;0.000;0.000;1.25;0.55;1.15
 ITEM;hull_main_1; 4 ; 12 ;-1.450;-0.860;11.620;0.000;0.000;90.000;1.00;1.00;1.00
+ITEM;light_red_blinker;0; 91 ;0.000;-7.621;0.350;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;light_red_blinker;0; 91 ;0.000;-9.281;-7.012;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;light_red_blinker;0; 91 ;0.000;8.728;-11.184;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;light_red_blinker;0; 91 ;1.331;7.878;-11.184;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;light_red_blinker;0; 91 ;-1.341;7.878;-11.184;0.000;0.000;0.000;1.00;1.00;1.00
 ITEM;mast_2;0; 42 ;1.572;-0.830;11.430;90.000;0.000;0.000;1.00;1.40;1.00
 ITEM;mast_2;0; 42 ;-1.572;-0.830;11.430;90.000;0.000;0.000;1.00;1.40;1.00
 ITEM;mast_2;0; 42 ;3.337;-0.983;8.158;90.000;0.000;0.000;1.00;1.00;1.00

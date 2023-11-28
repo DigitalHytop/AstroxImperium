@@ -89,7 +89,7 @@ SHIP;1;1.0;ship_data_(_STI_battlecruiserT3_assault).txt
 SHIP;1;1.0;ship_data_(_STI_battlecruiserT3_recon).txt
 SHIP;1;1.0;ship_data_(_STI_battlecruiserT3_transport).txt
 SHIP;1;1.0;ship_data_(_STI_destroyerT3_assault).txt
-SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_recon).txt
+SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_excavation).txt
 SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_excavation_orca_2).txt
 SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_battleship).txt
 SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_transport).txt

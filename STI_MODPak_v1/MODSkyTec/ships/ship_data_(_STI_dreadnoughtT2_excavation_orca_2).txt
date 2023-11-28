@@ -4,7 +4,7 @@
 //; ---------------------------- Variable name, value ------------------------------
 <STATS>
 //; --- General Info ---
-SHIP_name;STI-DNT2 Orca II
+SHIP_name;STI-DNT2 Orca II Miner
 SHIP_filename;ship_data_(_STI_dreadnoughtT2_excavation_orca_2)
 SHIP_class;Dreadnought
 SHIP_type;Excavation
@@ -70,7 +70,7 @@ SHIP_owner;none
 SHIP_xp;0
 SHIP_next_level_xp;1000
 SHIP_level;1
-SHIP_talent;Industrial
+SHIP_talent;Miner
 SHIP_loyalty;10
 SHIP_payroll;4500
 //; --------------------------------- SHIP PARTS -----------------------------------
