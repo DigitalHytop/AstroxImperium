@@ -2,4 +2,5 @@
 /.github
 /.idea
 /Images
+.gitignore
 sync.ffs_db
