@@ -1,4 +1,4 @@
-// Add the following to the top of your sector_0.txt file in your character's sector folder.
+// Copy and Paste the following to the top of your sector_0.txt file in your character's sector folder.
 
 // STI MOD Entries
 WARPGATE;7;sector_110.txt;1;5272;-315;-535;0;0;0;prescan
