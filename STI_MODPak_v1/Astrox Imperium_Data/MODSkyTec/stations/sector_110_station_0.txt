@@ -14,6 +14,7 @@ STATION;max_hp;25000
 STATION;dockfee;100
 STATION;seed;4-7-1-3-9-3-8-0-7-7-3-6-0-6-7-1-5-1-6-5-1-0-0
 STATION;interior_seed;0-0-15-8
+// PLAYER DATA
 STATION;refinery_active_time;0
 STATION;fabricator_active_time;0
 STATION;lease;10
