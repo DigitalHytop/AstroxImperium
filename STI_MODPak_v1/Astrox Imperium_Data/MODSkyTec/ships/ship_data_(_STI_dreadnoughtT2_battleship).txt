@@ -25,7 +25,7 @@ SHIP_base_cargo;8100
 SHIP_base_lifesupport;1500
 //; --- Propulsion ---
 SHIP_base_mass;515
-SHIP_base_thrust;440
+SHIP_base_thrust;475
 SHIP_base_turn;0.15
 SHIP_base_engine_burn;0.55
 SHIP_base_speed;0

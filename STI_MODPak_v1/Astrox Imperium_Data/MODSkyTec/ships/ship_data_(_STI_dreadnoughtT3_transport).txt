@@ -24,8 +24,8 @@ SHIP_base_energy;6800
 SHIP_base_cargo;12225
 SHIP_base_lifesupport;1250
 //; --- Propulsion ---
-SHIP_base_mass;400
-SHIP_base_thrust;525
+SHIP_base_mass;520
+SHIP_base_thrust;500
 SHIP_base_turn;0.12
 SHIP_base_engine_burn;0.70
 SHIP_base_speed;0
@@ -42,7 +42,7 @@ SHIP_explosive_resistance;0.75
 SHIP_base_recharge;0.8
 SHIP_base_shield_recharge;6.55
 //; --- Bonuses ---
-SHIP_specials_raw;Mass#-0.30,Turn Speed#-0.05,Armor#0.05,Cargo#0.35,ECM Resistance#0.50,Gun Strength#0.12,Shield#0.15,Shield Recharge#0.12
+SHIP_specials_raw;Mass#-0.15,Turn Speed#-0.05,Armor#0.05,Cargo#0.35,ECM Resistance#0.50,Gun Strength#0.12,Shield#0.15,Shield Recharge#0.12
 //; --- Description ---
 SHIP_description;Developed by SkyTec Industries with new design and structural enhancement technologies.  Although having minimal turret points, this dreadnought class transport is fully ready to service large scale hauling operations with its huge capacity and bonus to cargo hold space.  Having a small armor bonus and built-in resistances also make it capable of holding its own against the dangers that deep space may try to throw at it.
 //; --- Editor ---
