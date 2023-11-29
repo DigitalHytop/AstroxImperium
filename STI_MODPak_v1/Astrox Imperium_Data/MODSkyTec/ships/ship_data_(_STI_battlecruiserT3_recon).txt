@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;6.15
 //; --- Bonuses ---
 SHIP_specials_raw;Beam Range#0.50,ECM Resistance#0.50,Gun Range#0.50,Laser Range#0.40,Max Targets#0.40,Scan Range#0.35,Scan Speed#0.40
 //; --- Description ---
-SHIP_description;The Recon ship is designed to gather information about the sector with augmented onboard scanners and advanced targeting computers.
+SHIP_description;SkyTec's flagship Battlecruiser in Recon flavor delivers the best of balance.  Filling the middle ground between the power of the Dreadnought and the speed of the smaller class ships, this build will suit those looking to delve a little deeper into unsecured space and still have the power to survive, and the speed to flee when necessary.  Add in a drone bay or two and you've got yourself a mobile army base at your disposal, with plenty of cargo space to stay in the field longer.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png
