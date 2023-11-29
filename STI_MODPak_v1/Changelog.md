@@ -1,5 +1,6 @@
 ### v1.2.20231128
 - Modified Sneaky Sneeds hideout to be undockable
+- Rebalance of DN class Battleship and Transports for mass/thruster adjustments
 
 ### v1.2.20231128
 - Reclassified the DNT2 Recon to reflect its actual design purpose as Salvage ship
