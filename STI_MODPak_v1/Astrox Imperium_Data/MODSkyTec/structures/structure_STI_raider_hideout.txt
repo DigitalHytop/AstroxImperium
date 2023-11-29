@@ -16,8 +16,8 @@ STRUCTURE;interior_emm_color; 1 , 0, 0, 0.5
 STRUCTURE;interior_win_color; 1 , 0, 0, 0.5
 STRUCTURE;level;1
 STRUCTURE;model_prefab_id;10
-STRUCTURE;icon_filename;structure_raider_hideout_77-54321.png
-STRUCTURE;filename;structure_raider_hideout_77-54321.txt
+STRUCTURE;icon_filename;structure_STI_raider_hideout.png
+STRUCTURE;filename;structure_STI_raider_hideout.txt
 STRUCTURE;max_hp;95000
 STRUCTURE;hp;95000
 STRUCTURE;effect;none
@@ -36,7 +36,7 @@ STRUCTURE;power_points_max;1000
 STRUCTURE;power_drain;2.5
 STRUCTURE;is_raider;true
 STRUCTURE;is_law;false
-STRUCTURE;is_dockable;true
+STRUCTURE;is_dockable;false
 STRUCTURE;btn_undock;true
 
 STRUCTURE;cargo_max;100

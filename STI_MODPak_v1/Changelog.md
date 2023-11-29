@@ -1,4 +1,7 @@
 ### v1.2.20231128
+- Modified Sneaky Sneed's hideout to be undockable
+
+### v1.2.20231128
 - Reclassified the DNT2 Recon to reflect it's actual design purpose as Salvage ship
 - Added "Miner" to the Orca's ship name to reflect it's primary designation
 - Added white blinkers to DNT2 Salvager

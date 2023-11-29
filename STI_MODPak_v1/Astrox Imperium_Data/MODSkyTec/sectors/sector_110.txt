@@ -69,6 +69,7 @@ STATION;sector_110_station_3.txt;1833;-600;1311;prescan
 STATION;sector_110_station_4.txt;1026;-1740;-850;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
+STRUCTURE;structure_STI_raider_hideout.txt;6667.07;-5800.22;-937.29;prescan
 STRUCTURE;structure_energy_gen_1.txt;-406.00;938.46;2709.31;prescan
 STRUCTURE;structure_gun_platform_1.txt;-410.89;550.02;2704.02;prescan
 STRUCTURE;structure_energy_gen_1.txt;891.09;940.94;552.29;prescan
@@ -79,7 +80,6 @@ STRUCTURE;structure_energy_gen_1.txt;-2666.13;940.94;1630.36;prescan
 STRUCTURE;structure_gun_platform_1.txt;-2666.00;550.00;1570.00;prescan
 STRUCTURE;structure_farm_1.txt;-3930.00;3083.00;-3600.00;prescan
 STRUCTURE;structure_habitat_1.txt;-904.10;152.98;3962.97;prescan
-STRUCTURE;structure_raider_hideout_77-54321.txt;6667.07;-5800.22;-937.29;prescan
 STRUCTURE;structure_recon_1.txt;816.01;-171.88;-833.17;prescan
 
 // CLUSTER;Resource ID ;Num Resources ;Min Size ;Max Size ;Spread Distance ;Center X;Center Y;Center z
