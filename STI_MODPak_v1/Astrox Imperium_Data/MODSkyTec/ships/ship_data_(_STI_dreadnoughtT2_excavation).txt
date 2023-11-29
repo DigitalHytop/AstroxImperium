@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;7.5
 //; --- Bonuses ---
 SHIP_specials_raw;Mass#-0.04,Turn Speed#-0.02,Drone Armor#0.75,Drone Energy#0.45,Drone Speed#0.25,Drone Strength#0.75,ECM Resistance#0.60,Energy Recharge#0.60,Max Targets#0.30,Pulse Speed#0.70,Salvager Speed#0.50,Scan Speed#0.40
 //; --- Description ---
-SHIP_description;Excavation ships are designed to harvest raw ore and salvage. They have large energy cores to power the mining beams, and augmented cargo bays to store the resources they collect.
+SHIP_description;She's big.  She's ugly, and she's mean.  But she's also packing a lot of versatility into a Tier 2, dreadnought class monstrosity that will give you all the tools you need to mine and salvage the galaxy clean of rocks and debris.  Developed by SkyTec Industries with new design and structural enhancement technologies, this excavation ship is right up your space corridor to harvest all the raw ore and salvage you can get your hands on.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png
