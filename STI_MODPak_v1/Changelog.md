@@ -1,5 +1,5 @@
 ### v1.2.20231128
-- Modified Sneaky Sneed's hideout to be undockable
+- Modified Sneaky Sneeds hideout to be undockable
 
 ### v1.2.20231128
 - Reclassified the DNT2 Recon to reflect its actual design purpose as Salvage ship

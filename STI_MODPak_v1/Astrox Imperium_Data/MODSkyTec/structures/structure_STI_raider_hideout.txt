@@ -2,9 +2,9 @@
 // STRUCTURE;variable;value
 
 STRUCTURE;id;0
-STRUCTURE;name;Sneaky Sneeds's
+STRUCTURE;name;Sneaky Sneeds
 STRUCTURE;type;Raider Hideout
-STRUCTURE;desc;Raider hideouts are dangerous structures to hang around. Raiders don't like us civilians, and have no problem ganging up on you.
+STRUCTURE;desc;Sneed thought he could sneak up on SkyTec and get the lowdown on their latest tech.  Perhaps you could teach him a lesson and rough up his raiders by attacking his hideout.
 STRUCTURE;class;None
 STRUCTURE;owner;Sneed Stinkfoot
 STRUCTURE;faction;Outlaw
