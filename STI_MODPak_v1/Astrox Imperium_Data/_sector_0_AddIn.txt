@@ -1,5 +1,8 @@
-// Copy and Paste the following to the top of your sector_0.txt file in your character's sector folder.
+// Copy and Paste the STI MOD Entries info below to the bottom of your sector_0.txt file in your
+// character's sector folder.  Place it just above the line that reads ...
+// CRATE ; name ; owner ; class ;... (be sure not to edit/remove anything below this line)
 
 // STI MOD Entries
-WARPGATE;7;sector_110.txt;1;5272;-315;-535;0;0;0;prescan
+WARPGATE;7;sector_110.txt;1;5272;-315;-535;0;4;0;prescan
 PROP;1;5259;-95;-536;0;91;0;stations/images/billboard_skytec_1.png;//billboard 6;;;
+
