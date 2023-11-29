@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;3.95
 //; --- Bonuses ---
 SHIP_specials_raw;Armor#0.35,Beam Strength#0.30,Cargo#0.50,ECM Resistance#0.40,Shield#0.25,Shield Recharge#0.25
 //; --- Description ---
-SHIP_description;Transport ships are used mainly to move goods around the Astrox universe. The cargo bay has been augmented to allow for additional cargo to be carried without the need for external modules.
+SHIP_description;SkyTec's Tier 3 Carrier class transport ships are used mainly to move goods around the Astrox universe. The cargo bay has been augmented to allow for additional cargo to be carried without the need for external modules.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png

@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;6.15
 //; --- Bonuses ---
 SHIP_specials_raw;Beam Strength#0.25,ECM Resistance#0.50,Gun Strength#0.25,Laser Strength#0.25,Max Targets#0.40,Scan Range#0.35,Scan Speed#0.40
 //; --- Description ---
-SHIP_description;The recon ship is designed to gather information about the sector. Augmented onboard scanners, advanced targeting computers, and an oversized lifesupport bay.
+SHIP_description;SkyTec's Tier 3 Cruiser class recon ship is designed to gather information about the sector. Augmented onboard scanners, advanced targeting computers, and an oversized lifesupport bay.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png

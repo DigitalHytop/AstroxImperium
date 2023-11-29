@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;3.95
 //; --- Bonuses ---
 SHIP_specials_raw;Armor#0.25,Beam Strength#0.30,Cargo#0.25,ECM Resistance#0.40,Miner Speed#0.30,Miner Strength#0.30,Shield#0.15,Shield Recharge#0.20
 //; --- Description ---
-SHIP_description;Excavation ships are designed to harvest raw ore and salvage. They have large energy cores to power the mining beams, and augmented cargo bays to store the resources they collect.
+SHIP_description;SkyTec's Tier 3 Carrier class excavation ships are designed to harvest raw ore and salvage. They have large energy cores to power the mining beams, and augmented cargo bays to store the resources they collect.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_indy_detail.png

@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;4.15
 //; --- Bonuses ---
 SHIP_specials_raw;Afterburner#0.20,Beam Strength#0.30,Cargo#0.20,ECM Resistance#0.40,Energy#0.20,Energy Recharge#0.25,Gun Strength#0.30
 //; --- Description ---
-SHIP_description;The support ship is used to provide assistance during mining and combat operations. Improved life support systems, a strong energy core,  and improved damage resistance.
+SHIP_description;SkyTec's Tier 3 Carrier class support ship is used to provide assistance during mining and combat operations. Improved life support systems, a strong energy core,  and improved damage resistance.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png

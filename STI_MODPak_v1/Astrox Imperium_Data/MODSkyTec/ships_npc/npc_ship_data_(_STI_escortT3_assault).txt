@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;3.55
 //; --- Bonuses ---
 SHIP_specials_raw;Cargo#0.07,ECM Resistance#0.30,Missile Energy#0.10,Missile Speed#0.25,Missile Strength#0.10,Shield#0.07,Shield Recharge#0.15
 //; --- Description ---
-SHIP_description;The assault ship is designed to be a fast moving, combat strike craft. Improved thrust systems, and augmented resistance.
+SHIP_description;SkyTec's Tier 3 Escort class assault ship is designed to be a fast moving, combat strike craft. Improved thrust systems, and augmented resistance.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png
