@@ -44,7 +44,7 @@ SHIP_base_shield_recharge;1.55
 //; --- Bonuses ---
 SHIP_specials_raw;Afterburner#0.075,ECM Resistance#0.30,Scan Range#0.75,Scan Speed#0.50,Shield#0.15,Shield Recharge#0.07,Thrust#0.0
 //; --- Description ---
-SHIP_description;A new Tier upgrade design by SkyTec Industries.
+SHIP_description;Fast, nimble and enough gun slots to punch a hole in a blockade make this ship one of SkyTec's fastest to skoot your caboose around the galaxy fast.
 //; --- Editor ---
 SHIP_material_texture_a;sti_warm_main.png
 SHIP_material_texture_b;sti_cool_detail.png

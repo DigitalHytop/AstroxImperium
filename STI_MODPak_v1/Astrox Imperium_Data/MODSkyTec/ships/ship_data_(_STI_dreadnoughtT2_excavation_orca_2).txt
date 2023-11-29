@@ -42,7 +42,7 @@ SHIP_explosive_resistance;0.15
 SHIP_base_recharge;0.83
 SHIP_base_shield_recharge;5.75
 //; --- Bonuses ---
-SHIP_specials_raw;Mass#-0.25,Cargo#0.14,Thrust#0.30,Drone Armor#0.50,Drone Energy#0.45,Drone Speed#0.35,Drone Strength#0.55,ECM Resistance#0.50,Miner Range#0.15,Miner Strength#0.10,Salvager Speed#0.10,Salvager Strength#0.10
+SHIP_specials_raw;Mass#-0.25,Cargo#0.14,Thrust#0.30,Drone Armor#0.50,Drone Energy#0.45,Drone Speed#0.35,Drone Strength#0.55,ECM Resistance#0.60,Miner Range#0.15,Miner Strength#0.10,Salvager Speed#0.10,Salvager Strength#0.10
 //; --- Description ---
 SHIP_description;Originally developed by Borecraft as a vessel to help meet the demands of their industry, the Orca provided a flexible platform to more easily manage mining operations.  SkyTec Industries took this a step further with newer design and structural enhancement technologies to create this dreadnought version of the original carrier class Orca, in order to enhance the ships capabilities to include large scale salavage operations, and to enable it to hold its own against the dangers of deep space industrial expeditions.
 //; --- Editor ---

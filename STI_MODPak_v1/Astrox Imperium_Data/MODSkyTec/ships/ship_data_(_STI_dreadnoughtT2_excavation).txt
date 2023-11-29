@@ -42,7 +42,7 @@ SHIP_explosive_resistance;0.25
 SHIP_base_recharge;0.65
 SHIP_base_shield_recharge;7.5
 //; --- Bonuses ---
-SHIP_specials_raw;Mass#-0.04,Turn Speed#-0.02,Drone Armor#0.75,Drone Energy#0.45,Drone Speed#0.25,Drone Strength#0.75,ECM Resistance#0.50,Energy Recharge#0.60,Max Targets#0.30,Pulse Speed#0.70,Salvager Speed#0.50,Scan Speed#0.40
+SHIP_specials_raw;Mass#-0.04,Turn Speed#-0.02,Drone Armor#0.75,Drone Energy#0.45,Drone Speed#0.25,Drone Strength#0.75,ECM Resistance#0.60,Energy Recharge#0.60,Max Targets#0.30,Pulse Speed#0.70,Salvager Speed#0.50,Scan Speed#0.40
 //; --- Description ---
 SHIP_description;Excavation ships are designed to harvest raw ore and salvage. They have large energy cores to power the mining beams, and augmented cargo bays to store the resources they collect.
 //; --- Editor ---
