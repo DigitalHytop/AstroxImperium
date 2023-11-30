@@ -1,3 +1,6 @@
+### v1.2.20231130
+- Added additional files necessary for Nexus MODs support
+- Made final adjustments to MOD Folder and rezipped for beta release
 ### v1.2.20231129
 - Modified Sneaky Sneeds hideout to be undockable
 - Rebalance of DN class Battleship and Transports for mass/thruster adjustments
