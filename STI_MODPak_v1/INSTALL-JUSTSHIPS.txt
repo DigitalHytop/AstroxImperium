@@ -1,0 +1,25 @@
+// SHIP HANGAR;count;Price_modifier;Ship_filename
+<HANGAR>
+SHIP;1;1.0;ship_data_(_STI_shuttleT3_recon).txt
+SHIP;1;1.0;ship_data_(_STI_escortT3_assault).txt
+SHIP;1;1.0;ship_data_(_STI_escortT3_recon).txt
+SHIP;1;1.0;ship_data_(_STI_frigateT3_recon).txt
+SHIP;1;1.0;ship_data_(_STI_frigateT3_support).txt
+SHIP;1;1.0;ship_data_(_STI_cruiserT3_assault).txt
+SHIP;1;1.0;ship_data_(_STI_cruiserT3_recon).txt
+SHIP;1;1.0;ship_data_(_STI_carrierT3_battle).txt
+SHIP;1;1.0;ship_data_(_STI_carrierT3_miner).txt
+SHIP;1;1.0;ship_data_(_STI_carrierT3_recon).txt
+SHIP;1;1.0;ship_data_(_STI_carrierT3_salvager).txt
+SHIP;1;1.0;ship_data_(_STI_carrierT3_support).txt
+SHIP;1;1.0;ship_data_(_STI_carrierT3_transport).txt
+SHIP;1;1.0;ship_data_(_STI_battlecruiserT3_assault).txt
+SHIP;1;1.0;ship_data_(_STI_battlecruiserT3_recon).txt
+SHIP;1;1.0;ship_data_(_STI_battlecruiserT3_transport).txt
+SHIP;1;1.0;ship_data_(_STI_destroyerT3_assault).txt
+SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_excavation).txt
+SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_excavation_orca_2).txt
+SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_battleship).txt
+SHIP;1;1.0;ship_data_(_STI_dreadnoughtT2_transport).txt
+SHIP;1;1.0;ship_data_(_STI_dreadnoughtT3_transport).txt
+</HANGAR>
