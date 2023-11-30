@@ -18,6 +18,10 @@ NOTE:  I have tested this and it is compatible with Daering's eXperimental MOD.
 
 Please read the INSTALL Doc for installing and setting up this MOD.
 
+:: ISSUES ::
+- Ship balancing tweaks still in order
+- Torpedo build Mercs are not loading torpedoes in inventory (per Momo, will be fixed with b144 push)
+
 :: CREDITS ::
 ♦ The Astrox Imperium Game - http://astroximperium.com/
 ♦ Jace Masula (MomoGuru), owner/developer of Astrox Imperium
