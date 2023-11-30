@@ -10,14 +10,17 @@ In addition:
 • The SkyTec Manufacturing station additionally gives the ability to take on offices of your own
 
 :: RECOMMENDED INSTALL ::
-This MOD Pak is intended to be installed into a vanilla copy of the Astrox Imporium /MOD folder,
-but it can be installed into an existing save as well.  The latter is only recommended if you are
-familiar with Astrox's file stucture, and if you are comfortable editing its configuration files.
+This MOD Pak is intended to be installed into a vanilla copy of the Astrox Imperium /MOD folder,
+but it can be installed into an existing save as well. The latter is only recommended if you are
+familiar with Astrox's file structure, and if you are comfortable editing its configuration files.
 
-::  CREDITS ::
+NOTE:  I have tested this and it is compatible with Daering's eXperimental MOD.
+
+Please read the INSTALL Doc for installing and setting up this MOD.
+
+:: CREDITS ::
 ♦ The Astrox Imperium Game - http://astroximperium.com/
 ♦ Jace Masula (MomoGuru), owner/developer of Astrox Imperium
 ♦ Daering aka DragonSlayer, creator of Astrox Imperium content and the eXperimental MOD (+ others)
 
-MOD Pak is also available on GitHub:
-https://github.com/DigitalHytop/STI-AstroxImperium
+MOD Pak is also available on GitHub.
