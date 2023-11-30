@@ -1,0 +1,51 @@
+:: PRE-INSTALL NOTES ::
+This MOD Pak is intended to be installed into a vanilla copy of the Astrox Imporium /MOD folder,
+but it can be installed into an existing save as well.  The latter is only recommended if you are
+familiar with Astrox's file stucture, and if you are comfortable editing its configuration files.
+
+First and foremost, BACK UP YOUR GAME FILES BEFORE you start to do anything with this MOD.
+
+Second, although this MOD may run with other MOD content, it is designed to be run from an unplayed, vanilla copy of the game's /MOD folder.  It will add an additional sector file that will overwrite an existing sector 110 if you have played through to the point of visiting any spawned wormhole sectors.
+
+NOTE: I have tested this and it is compatible with Daering's eXperimental MOD located here on Nexus.
+
+:: RECOMMENDED INSTALL ::
+01 • Download the MOD from Nexus to a temp folder of your choice and extract the ZIP file.
+02 • Locate your Astrox Imperium game install folder according to the platform you used to install it.
+03 • Navigate to the "Astrox Imperium_Data\" folder within.
+04 • Make a copy of your /MOD folder in the same data folder and rename it to \MODSkyTec.
+05 • Locate the mod_config.txt file in the MOD Pak and copy it to the Astrox Imperium_Data/ folder.
+
+Example:
+| game install folder/
+| | Astrox Imperium_Data/
+| | | MOD/
+| | | MODSkyTec/
+| | | mod_config.txt (this file will tell AI to use the MODSkyTec/ folder instead of MOD/
+
+06 • Locate the MODSkyTec/ folder in your new STI_MODPak_v1 and copy it's contents to the new MODSkyTec folder you just created.  As long as this new folder is a vanilla install, you shouldn't get any warnings for over writing any files.
+07 • Locate the _sector_0_AddIn.txt folder in the MODPak and open it with your favorite text editor.
+08 • Copy the // STI MOD Entries and the following two lines to your clipboard (highlight and CTRL+C)
+09 • Locate your sector_0.txt file in the MODSkyTec/sector folder and open it with your text editor.
+10 • Navigate to the bottom of this file and paste the copied content just above the "// CRATE" line.
+
+Example:
+// STI MOD Entries
+WARPGATE;7;sector_110.txt;1;5272;-315;-535;0;4;0;prescan
+PROP;1;5259;-95;-536;0;91;0;stations/images/billboard_skytec_1.png;//billboard 6;;;
+
+// CRATE ; name ; owner ; class ; ...
+
+11 • Save the file and you're done with the install.
+12 • Start the game and create your new character.  You should find there is now a warpgate to the new SkyTec Nexus for you to explore located in the Void Starcross sector.
+13 • Once you have created the new character, you can also import your character from a previous session into the new save you just created.
+
+:: EXISTING SAVE PRE-INSTALL ::
+You can also install this to an existing save, provided it's a vanilla install.  But if you have visited ANY wormhole sectors, you will have already created a sector_110.txt file in your sector folder which will get over written with the SkyTec MOD files.  Some renaming of that file and it's associated warpgate in the lead-in sector's data file would be necessary in order to prevent the conflict.  This would be unique to your save and you'd need to be comfortable making these changes. Not knowing what you are doing could cause you to lose access to that particular wormhole.
+
+Once you have made sure of no conflicts with an existing sector_110.txt file you can proceed to install the necessary character save files below.
+
+:: EXISTING SAVE INSTALL ::
+1 • Locate the folder named "Your_Character_Folder" in the SkyTec MODPak folder and copy it's contents to your Character's save folder.
+2 • Repeat the steps of copying the contents of "_sector_0_AddIn.txt" from the MODPak folder to your character's save/sector/sector_0.txt file as instructed within.
+3 • Start the game and log into your character.  You should find there is now a warpgate to the new SkyTec Nexus for you to explore located in the Void Starcross sector.
