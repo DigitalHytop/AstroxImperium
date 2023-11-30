@@ -54,5 +54,5 @@ Once you have made sure of no conflicts with an existing sector_110.txt file you
 Just want the ships and you know how to add them to a station file of your choice?
 1 • Copy the MOD's ship_parts/ and ships/ folders to your working MOD/ folder.
 2 • Pick an existing station of your choice and edit it's station data file in your character save.
-3 • Add the contents of the INSTALL-JUSTSHIPS.txt file in the MOD folder to the appropriate existing <HANGAR> section of the station file you chose.
+3 • Add the contents of the INSTALL-JUSTSHIPS.txt file in the MOD folder to the appropriate existing < HANGAR > section of the station file you chose.
 4 • Save the file and you're done.  Log in and visit the station you chose to set the ships up in and check the Shipyard.
