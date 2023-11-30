@@ -1,3 +1,9 @@
+Just want the ships and you know how to add them to a station file of your choice?
+1 • Copy the MOD's ship_parts/ and ships/ folders to your working MOD/ folder.
+2 • Pick an existing station of your choice and edit it's station data file in your character save.
+3 • Add the contents of the < HANGAR > contents below to the appropriate existing < HANGAR > section of the station file you chose.
+4 • Save the file and you're done.  Log in and visit the station you chose to set the ships up in and check the Shipyard.
+
 // SHIP HANGAR;count;Price_modifier;Ship_filename
 <HANGAR>
 SHIP;1;1.0;ship_data_(_STI_shuttleT3_recon).txt
