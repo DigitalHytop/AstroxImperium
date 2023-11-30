@@ -1,13 +1,11 @@
 :: PRE-INSTALL NOTES ::
-This MOD Pak is intended to be installed into a vanilla copy of the Astrox Imporium /MOD folder,
-but it can be installed into an existing save as well.  The latter is only recommended if you are
-familiar with Astrox's file stucture, and if you are comfortable editing its configuration files.
+This MOD Pak is intended to be installed into a vanilla copy of the Astrox Imporium /MOD folder using Campaign mode, but it can be installed into an existing save as well.  The latter is only recommended if you are familiar with Astrox's file stucture, and if you are comfortable editing its configuration files.
 
 First and foremost, BACK UP YOUR GAME FILES BEFORE you start to do anything with this MOD.
 
 Second, although this MOD may run with other MOD content, it is designed to be run from an unplayed, vanilla copy of the game's MOD/ folder.  It will add an additional sector file that will overwrite an existing sector 110 if you have played through to the point of visiting any spawned wormhole sectors.
 
-NOTE: I have tested this and it is compatible with Daering's eXperimental MOD located here on Nexus.
+NOTE: I have installed this along side Daering's eXperimental MOD located here on Nexus, and haven't seen any compatibility issues so far.  You MUST install and configure his MOD first.  Then substitute the eXperimental/ folder for the MODSkyTec/ folder mentioned in the installation instructions below.
 
 :: RECOMMENDED INSTALL ::
 01 • Download the MOD from Nexus to a temp folder of your choice and extract the ZIP file.
@@ -21,7 +19,7 @@ Example:
 | | Astrox Imperium_Data/
 | | | MOD/
 | | | MODSkyTec/
-| | | mod_config.txt (this file will tell AI to use the MODSkyTec/ folder instead of MOD/
+| | | mod_config.txt (this file will tell AI to use the MODSkyTec/ folder instead of MOD/ (skip this step if you are running eXperimental MOD)
 
 06 • Locate the MODSkyTec/ folder in your new STI_MODPak_v1 and copy it's contents to the new MODSkyTec folder you just created.  As long as this new folder is a vanilla install, you shouldn't get any warnings for over writing any files.
 07 • Locate the _sector_0_AddIn.txt folder in the MODPak and open it with your favorite text editor.
@@ -50,7 +48,7 @@ Once you have made sure of no conflicts with an existing sector_110.txt file you
 2 • Repeat the steps of copying the contents of "_sector_0_AddIn.txt" from the MODPak folder to your character's save/sector/sector_0.txt file as instructed within.
 3 • Start the game and log into your character.  You should find there is now a warpgate to the new SkyTec Nexus for you to explore located in the Void Starcross sector.
 
-:: I JUST WANT THE SHIPS INSTALL ::
+:: "I JUST WANT THE SHIPS!" INSTALL ::
 Just want the ships and you know how to add them to a station file of your choice?
 1 • Copy the MOD's ship_parts/ and ships/ folders to your working MOD/ folder.
 2 • Pick an existing station of your choice and edit it's station data file in your character save.
