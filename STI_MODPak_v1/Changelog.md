@@ -1,4 +1,4 @@
-### v1.2.20231128
+### v1.2.20231129
 - Modified Sneaky Sneeds hideout to be undockable
 - Rebalance of DN class Battleship and Transports for mass/thruster adjustments
 - Updated some of the ship descriptions to ready the MOD for upload to Nexus
