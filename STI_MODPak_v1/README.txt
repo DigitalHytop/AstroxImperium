@@ -16,7 +16,7 @@ familiar with Astrox's file structure, and if you are comfortable editing its co
 
 NOTE:  I have installed this along side Daering's eXperimental MOD located here on Nexus, and haven't seen any compatibility issues so far. You MUST install and configure his MOD first. Then substitute the eXperimental/ folder for the MODSkyTec/ folder mentioned in the installation instructions.
 
-Please read the INSTALL Doc﻿ for installing and setting up this MOD.
+Please read the INSTALL Doc for installing and setting up this MOD.
 
 :: ISSUES ::
 - Ship balancing tweaks still in order
