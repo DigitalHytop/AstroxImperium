@@ -14,9 +14,9 @@ This MOD Pak is intended to be installed into a vanilla copy of the Astrox Imper
 but it can be installed into an existing save as well. The latter is only recommended if you are
 familiar with Astrox's file structure, and if you are comfortable editing its configuration files.
 
-NOTE:  I have installed this along side Daering's eXperimental MOD located here on Nexus, and haven't seen any compatibility issues so far. You MUST install and configure his MOD first. Then substitute the eXperimental/ folder for the MODSkyTec/ folder mentioned in the installation instructions below.
+NOTE:  I have installed this along side Daering's eXperimental MOD located here on Nexus, and haven't seen any compatibility issues so far. You MUST install and configure his MOD first. Then substitute the eXperimental/ folder for the MODSkyTec/ folder mentioned in the installation instructions.
 
-Please read the INSTALL Doc for installing and setting up this MOD.
+Please read the INSTALL Doc﻿ for installing and setting up this MOD.
 
 :: ISSUES ::
 - Ship balancing tweaks still in order
