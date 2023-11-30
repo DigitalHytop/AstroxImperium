@@ -49,3 +49,9 @@ Once you have made sure of no conflicts with an existing sector_110.txt file you
 1 • Locate the folder named "Your_Character_Folder" in the SkyTec MODPak folder and copy it's contents to your Character's save folder.
 2 • Repeat the steps of copying the contents of "_sector_0_AddIn.txt" from the MODPak folder to your character's save/sector/sector_0.txt file as instructed within.
 3 • Start the game and log into your character.  You should find there is now a warpgate to the new SkyTec Nexus for you to explore located in the Void Starcross sector.
+
+:: I JUST WANT THE SHIPS INSTALL ::
+Just want the ships and you know how to add them to a station file of your choice?
+1 • Copy the MOD's ship_parts/, ships/ and ships_npc/ folders to your working MOD/ folder.
+2 • Pick a an existing station of your choice and edit it's station data file in your character save.
+3 • Add the contents of the INSTALL-JUSTSHIPS.txt file in the MOD folder to the appropriate existing <HANGAR> section of the station file you chose.
