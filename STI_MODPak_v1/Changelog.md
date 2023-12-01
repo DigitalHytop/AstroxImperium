@@ -1,4 +1,4 @@
-### v1.2.20231130
+### v1.2.20231201
 - Modified the install and readme content to cut back on installation confusion issues
 
 ### v1.2.20231130
