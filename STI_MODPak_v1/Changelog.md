@@ -1,4 +1,8 @@
 ### v1.2.20231130
+- Made several adjustments to the install info files for clarity
+- Made several adjustments to the info files for clarity
+
+### v1.2.20231130
 - Added additional files necessary for Nexus MODs support
 - Made final adjustments to MOD Folder and rezipped for beta release
 ### v1.2.20231129

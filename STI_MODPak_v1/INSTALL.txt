@@ -19,7 +19,7 @@ Example:
 | | Astrox Imperium_Data/
 | | | MOD/
 | | | MODSkyTec/
-| | | mod_config.txt (this file will tell AI to use the MODSkyTec/ folder instead of MOD/ (skip this step if you are running eXperimental MOD)
+| | | mod_config.txt (this file will tell AI to use the MODSkyTec/ folder instead of MOD/ (skip this step if you are already running eXperimental MOD))
 
 06 • Locate the MODSkyTec/ folder in your new STI_MODPak_v1 and copy it's contents to the new MODSkyTec folder you just created.  As long as this new folder is a vanilla install, you shouldn't get any warnings for over writing any files.
 07 • Locate the _sector_0_AddIn.txt folder in the MODPak and open it with your favorite text editor.
@@ -52,5 +52,5 @@ Once you have made sure of no conflicts with an existing sector_110.txt file you
 Just want the ships and you know how to add them to a station file of your choice?
 1 • Copy the MOD's ship_parts/ and ships/ folders to your working MOD/ folder.
 2 • Pick an existing station of your choice and edit it's station data file in your character save.
-3 • Add the contents of the INSTALL-JUSTSHIPS.txt file in the MOD folder to the appropriate existing < HANGAR > section of the station file you chose.
+3 • Insert the contents between the < HANGAR > < /HANGAR > tags of the INSTALL-JUSTSHIPS.txt file in the MOD folder to the appropriate existing < HANGAR > < /HANGAR > section of the station file you chose to use.
 4 • Save the file and you're done.  Log in and visit the station you chose to set the ships up in and check the Shipyard.
