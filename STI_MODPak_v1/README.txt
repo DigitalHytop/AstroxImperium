@@ -23,6 +23,6 @@ Please read the INSTALL Doc for installing and setting up this MOD.
 :: CREDITS ::
 ♦ The Astrox Imperium Game - http://astroximperium.com/
 ♦ Jace Masula (MomoGuru), owner/developer of Astrox Imperium
-♦ Daering aka DragonSlayer, creator of Astrox Imperium content
+♦ Daering aka DragonSlayer, creator of Astrox Imperium MOD content
 
 MOD Pak is also available on GitHub.
