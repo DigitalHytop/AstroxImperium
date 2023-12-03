@@ -10,7 +10,7 @@ SHIP_class;Battlecruiser
 SHIP_type;Assault
 SHIP_skill_level;3
 SHIP_base_level;8
-SHIP_base_price;13275000
+SHIP_base_price;14275000
 SHIP_manufacturer;SkyTec
 SHIP_manufacturer_icon;icon_skytec_shp.png
 SHIP_faction_id;0

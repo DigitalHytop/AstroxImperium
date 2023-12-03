@@ -1,3 +1,6 @@
+### v1.2.20231203
+- Fixed the hierarchy of the Destroyer so it falls in proper order of purchase and price between carriers and battlecruisers
+
 ### v1.2.20231201
 - Modified the install and readme content to cut back on installation confusion issues
 
