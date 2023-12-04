@@ -1,5 +1,11 @@
+### v1.3.20231204
+- Sneaky Sneeds got sneaky and moved and wasn't supposed to, so we put him back in his place
+- Modified the STI-DET3 Assault Destroyer to sport a little more bulk in the lower decks  
+- Added drone support bonus to Assault Battlecruiser to better align with upgrade from Destroyer predecessor
+
 ### v1.2.20231203
-- Fixed the hierarchy of the Destroyer so it falls in proper order of purchase and price between carriers and battlecruisers
+- Fixed the hierarchy of the STI-DET3 Assault Destroyer, so it falls in proper order of purchase and price between
+  carriers and battlecruisers
 
 ### v1.2.20231201
 - Modified the install and readme content to cut back on installation confusion issues

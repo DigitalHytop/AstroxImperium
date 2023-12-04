@@ -69,7 +69,7 @@ STATION;sector_110_station_3.txt;1833;-600;1311;prescan
 STATION;sector_110_station_4.txt;1026;-1740;-850;prescan
 
 // STRUCTURE;Sector filename;X poisition;Y position;Z position
-STRUCTURE;structure_STI_raider_hideout.txt;6667.07;-5800.22;-937.29;prescan
+STRUCTURE;structure_STI_raider_hideout.txt;7500.00;-5500.00;-2000.00;prescan
 STRUCTURE;structure_energy_gen_1.txt;-406.00;938.46;2709.31;prescan
 STRUCTURE;structure_gun_platform_1.txt;-410.89;550.02;2704.02;prescan
 STRUCTURE;structure_energy_gen_1.txt;891.09;940.94;552.29;prescan

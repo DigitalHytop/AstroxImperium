@@ -43,8 +43,6 @@ MERC;3;1.63;npc_ship_data_(excavation_escort_1).txt
 MERC;9;1.93;npc_ship_data_(excavation_utility_1).txt
 MERC;12;1.23;npc_ship_data_(excavation_utility_2).txt
 MERC;15;1.47;npc_ship_data_(excavation_frigate_1).txt
-MERC;15;1.50;npc_ship_data_(_STI_shuttleT3_recon).txt
-MERC;15;1.50;npc_ship_data_(_STI_carrierT3_transport).txt
 </MERC>
 // MARKET;Item_id;Qty;Price_modifier
 <MARKET>
