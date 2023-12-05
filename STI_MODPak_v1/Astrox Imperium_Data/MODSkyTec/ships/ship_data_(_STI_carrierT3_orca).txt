@@ -1,5 +1,5 @@
 //; ASTROX IMPERIUM SHIP EDITOR
-//; Jace Masula / DragonSlayer / DigitalHytop 2023
+//; Jace Masula / DigitalHytop 2023
 //; -------------------------------SHIP MAIN VARS ----------------------------------
 //; ---------------------------- Variable name, value ------------------------------
 <STATS>

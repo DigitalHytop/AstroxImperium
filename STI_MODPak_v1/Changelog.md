@@ -1,3 +1,7 @@
+### v1.3.20231205
+- Seems module slots went missing on the T3 carrier transport, so they got put back where they belong
+- Modified the base stats on the T3 carrier support ship/npc ship to be more in line with where they should be
+
 ### v1.3.20231204
 - Added the STI upgraded Carrier class Orca I Miner to the collection
 - Sneaky Sneeds got sneaky and moved and wasn't supposed to, so we put him back in his place
@@ -18,6 +22,7 @@
 ### v1.2.20231130
 - Added additional files necessary for Nexus MODs support
 - Made final adjustments to MOD Folder and rezipped for beta release
+
 ### v1.2.20231129
 - Modified Sneaky Sneeds hideout to be undockable
 - Rebalance of DN class Battleship and Transports for mass/thruster adjustments

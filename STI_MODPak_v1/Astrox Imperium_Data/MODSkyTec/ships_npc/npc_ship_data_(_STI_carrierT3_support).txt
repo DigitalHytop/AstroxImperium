@@ -18,11 +18,11 @@ SHIP_faction_id;0
 SHIP_active_slots;9
 SHIP_passive_slots;8
 SHIP_base_drones;8
-SHIP_base_shield;3491
-SHIP_base_armor;3551
-SHIP_base_energy;3500
-SHIP_base_cargo;4675
-SHIP_base_lifesupport;1200
+SHIP_base_shield;3865
+SHIP_base_armor;3725
+SHIP_base_energy;3610
+SHIP_base_cargo;3915
+SHIP_base_lifesupport;1250
 //; --- Propulsion ---
 SHIP_base_mass;205
 SHIP_base_thrust;256
@@ -30,10 +30,10 @@ SHIP_base_turn;0.34
 SHIP_base_engine_burn;0.43
 SHIP_base_speed;0
 //; --- Sensors ---
-SHIP_base_scan_max_targets;9
-SHIP_base_scan_speed;5.00
-SHIP_base_scan_pulserange;5000
-SHIP_base_scan_pulsespeed;100
+SHIP_base_scan_max_targets;11
+SHIP_base_scan_speed;5.75
+SHIP_base_scan_pulserange;6400
+SHIP_base_scan_pulsespeed;50
 //; --- Resistance ---
 SHIP_impact_resistance;0.25
 SHIP_energy_resistance;0.45
