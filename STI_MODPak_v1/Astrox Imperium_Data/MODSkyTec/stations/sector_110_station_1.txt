@@ -82,6 +82,7 @@ SHIP;1;1.0;ship_data_(_STI_cruiserT3_assault).txt
 SHIP;1;1.0;ship_data_(_STI_cruiserT3_recon).txt
 SHIP;1;1.0;ship_data_(_STI_carrierT3_battle).txt
 SHIP;1;1.0;ship_data_(_STI_carrierT3_miner).txt
+SHIP;1;1.0;ship_data_(_STI_carrierT3_orca).txt
 SHIP;1;1.0;ship_data_(_STI_carrierT3_recon).txt
 SHIP;1;1.0;ship_data_(_STI_carrierT3_salvager).txt
 SHIP;1;1.0;ship_data_(_STI_carrierT3_support).txt

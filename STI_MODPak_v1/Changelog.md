@@ -1,4 +1,5 @@
 ### v1.3.20231204
+- Added the STI upgraded Carrier class Orca I Miner to the collection
 - Sneaky Sneeds got sneaky and moved and wasn't supposed to, so we put him back in his place
 - Modified the STI-DET3 Assault Destroyer to sport a little more bulk in the lower decks  
 - Added drone support bonus to Assault Battlecruiser to better align with upgrade from Destroyer predecessor
