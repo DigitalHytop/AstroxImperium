@@ -1,0 +1,136 @@
+//; ASTROX IMPERIUM SHIP EDITOR
+//; Jace Masula / DragonSlayer / DigitalHytop 2023
+//; -------------------------------SHIP MAIN VARS ----------------------------------
+//; ---------------------------- Variable name, value ------------------------------
+<STATS>
+//; --- General Info ---
+SHIP_name;STI-CAT3 Orca Miner
+SHIP_filename;ship_data_(_STI_carrierT3_orca)
+SHIP_class;Carrier
+SHIP_type;Excavation
+SHIP_skill_level;3
+SHIP_base_level;8
+SHIP_base_price;12205000
+SHIP_manufacturer;SkyTec
+SHIP_manufacturer_icon;icon_skytec_shp.png
+SHIP_faction_id;0
+//; --- Main Stats ---
+SHIP_active_slots;3
+SHIP_passive_slots;7
+SHIP_base_drones;15
+SHIP_base_shield;3600
+SHIP_base_armor;3825
+SHIP_base_energy;8000
+SHIP_base_cargo;6450
+SHIP_base_lifesupport;1250
+//; --- Propulsion ---
+SHIP_base_mass;325
+SHIP_base_thrust;400
+SHIP_base_turn;0.21
+SHIP_base_engine_burn;0.55
+SHIP_base_speed;0
+//; --- Sensors ---
+SHIP_base_scan_max_targets;12
+SHIP_base_scan_speed;5.75
+SHIP_base_scan_pulserange;6250
+SHIP_base_scan_pulsespeed;13
+//; --- Resistance ---
+SHIP_impact_resistance;0.03
+SHIP_energy_resistance;0.15
+SHIP_explosive_resistance;0.15
+//; --- Regeneration ---
+SHIP_base_recharge;0.56
+SHIP_base_shield_recharge;4.25
+//; --- Bonuses ---
+SHIP_specials_raw;Gun Strength#-0.15,Torpedo Strength#-0.05,Turn Speed#-0.10,Drone Range#0.15,Energy Recharge#0.075,Miner Energy#0.20,Miner Range#0.30,Miner Strength#0.15
+//; --- Description ---
+SHIP_description;Originally developed by Borecraft as a vessel to help meet the demands of their industry, the Orca provided a flexible platform to more easily manage mining operations.  SkyTec Industries took this a step further with enhancement technologies to create this upgraded version of the original carrier class Orca.
+//; --- Editor ---
+SHIP_material_texture_a;sti_cool_main.png
+SHIP_material_texture_b;sti_indy_detail.png
+SHIP_material_texture_c;sti_cool_glow.png
+SHIP_material_color_a;0.70;0.70;0.70;1.00
+SHIP_material_color_b;0.60;0.20;0.00;1.00
+SHIP_engine_color;0.60;0.20;0.00;1.00
+//; --- Misc ---
+SHIP_shield;0
+SHIP_armor;0
+SHIP_energy;0
+SHIP_ls_food;0
+SHIP_ls_water;0
+SHIP_ls_thermal;0
+SHIP_ls_waste;0
+SHIP_ls_points;0
+SHIP_collider_x;4
+SHIP_collider_y;4
+SHIP_collider_z;20
+SHIP_prototype;False
+//; --- Merc stuff ---
+SHIP_owner;none
+SHIP_xp;0
+SHIP_next_level_xp;800
+SHIP_level;1
+SHIP_talent;Recon
+SHIP_loyalty;10
+SHIP_payroll;380
+//; --------------------------------- SHIP PARTS -----------------------------------
+//; --------------- ITEM,type,catID,pfID,xp,yp,zp,xr,yr,zr--------------------------
+<ITEM>
+ITEM;cargo_4;0; 54 ;0.00;0.70;-2.75;0.00;270.00;180.00
+ITEM;cargo_4;0; 54 ;0.00;0.70;-4.50;0.00;270.00;180.00
+ITEM;cargo_4;0; 54 ;0.00;0.70;-6.25;0.00;270.00;180.00
+ITEM;cargo_4;0; 54 ;0.00;0.70;-8.00;0.00;270.00;180.00
+ITEM;cargo_4;0; 54 ;0.00;0.75;-2.75;0.00;90.00;0.00
+ITEM;cargo_4;0; 54 ;0.00;0.75;-4.50;0.00;90.00;0.00
+ITEM;cargo_4;0; 54 ;0.00;0.75;-6.25;0.00;90.00;0.00
+ITEM;cargo_4;0; 54 ;0.00;0.75;-8.00;0.00;90.00;0.00
+ITEM;command_6;0; 26 ;0.00;1.00;-10.00;0.00;0.00;0.00
+ITEM;command_5;0; 25 ;0.000;0.200;6.937;0.000;0.000;0.000;1.00;1.00;1.00
+ITEM;engine_8;0; 38 ;0.00;-0.80;-9.25;0.00;0.00;0.00
+ITEM;engine_8;0; 38 ;0.00;-0.40;-9.50;0.00;0.00;0.00
+ITEM;hull_boat_6;0; 16 ;0.00;0.00;-2.00;0.00;0.00;180.00
+ITEM;hull_boat_6;0; 16 ;0.00;0.00;-2.50;0.00;0.00;0.00
+ITEM;hull_medium_1;0; 5 ;-1.000;0.000;6.250;0.000;180.000;180.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;-1.00;0.00;3.25;0.00;0.00;0.00
+ITEM;hull_medium_1;0; 5 ;1.000;0.000;6.250;0.000;180.000;0.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;1.000;0.000;3.250;0.000;0.000;180.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;1.000;0.000;-9.250;0.000;0.000;180.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;-1.00;0.00;-9.25;0.00;0.00;0.00
+ITEM;hull_medium_1;0; 5 ;1.000;0.000;-3.000;0.000;0.000;180.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;1.000;0.000;-6.250;0.000;180.000;0.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;-1.000;0.000;-6.250;0.000;180.000;180.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;-1.00;0.00;-3.00;0.00;0.00;0.00
+ITEM;hull_medium_1;0; 5 ;1.000;0.000;0.000;0.000;180.000;0.000;1.00;1.00;1.00
+ITEM;hull_medium_1;0; 5 ;-1.000;0.000;0.000;0.000;180.000;180.000;1.00;1.00;1.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.30;-8.30;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;1.00;-8.75;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.20;-5.50;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.20;-1.50;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.20;0.50;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.20;4.50;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.20;6.50;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.20;2.50;0.00;0.00;0.00
+ITEM;hull_tiny_1;0; 14 ;0.00;0.20;-3.50;0.00;0.00;0.00
+ITEM;light_red_blinker;0; 91 ;0.000;4.096;-10.680;0.000;0.000;0.000;0.25;0.25;0.25
+ITEM;mast_1;0; 41 ;0.000;0.964;-9.251;335.000;0.000;0.000;0.25;0.40;0.50
+ITEM;wing_8;0; 76 ;1.40;1.00;-10.00;0.00;0.00;180.00
+ITEM;wing_8;0; 76 ;-1.40;1.00;-10.00;0.00;0.00;0.00
+//; ----------------------------- SHIP CAMERA SLOTS --------------------------------
+//; -------------- PILOTCAM,name,SLOTid,model_id,xp,yp,zp,xr,yr,zr--------------------
+<PILOTCAM>
+PILOTCAM;pilot_cam; 5 ; 98 ;0.00;1.40;-8.80;0.00;0.00;0.00
+//; ----------------------------- SHIP MODULE SLOTS --------------------------------
+//; -------------- MODSLOT,name,SLOTid,model_id, ammo_id,xp,yp,zp,xr,yr,zr----------
+<MODSLOT>
+MODSLOT;module_slot;1; 99 ;0.000;0.540;3.547;0.000;0.000;0.000;1.00;1.00;1.00
+MODSLOT;module_slot;2; 99 ;0.000;-0.450;6.255;0.000;0.000;180.000;1.00;1.00;1.00
+MODSLOT;module_slot;3; 99 ;0.000;-0.450;0.239;0.000;0.000;180.000;1.00;1.00;1.00
+//; ----------------------------- SHIP MODULES --------------------------------------
+//; ----- MODULE,slot,module_id
+<MODULE>
+//; ----------------------------- SHIP CARGO -----------------------------------------
+//; ----- CARGO, qty, cargo_id
+<CARGO>
+//; ----------------------------- SHIP DRONES -----------------------------------------
+//; ----- DRONE, id, hp, energy
+<DRONE>
